@@ -1,0 +1,4 @@
+The keyword which ccan be used as a data script in python are:
+1)- False
+2)- True
+3)- None
